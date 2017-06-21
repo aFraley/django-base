@@ -181,6 +181,6 @@ ENV/
 .ropeproject
 
 # App
-project_base/secret-key.txt
+project_base/project_base/secret_key.py
 project_base/db.sqlite3
 devops/
